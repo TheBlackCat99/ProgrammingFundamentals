@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.genruntimeconfig.cache
