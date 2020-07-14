@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "etXIUKgSoBpi9PoPmxc0WeVmS1W/IXH1qnst064GgGhHgQ4DGPF0AfEwM0FN1B0wmD8hFLrTvlYZb5Q5aHeJCg==",
+  "dgSpecHash": "PK3dhkHY/oLsbM6aTCYR9tM+6eXk6Vxqe29LNYAGDLVJxKMFcdVnrUmBvhNiAFD3mR5VmbHnaZFk40q1PzmEeA==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\PrintingTriangle\\PrintingTriangle\\PrintingTriangle.csproj",
+  "projectFilePath": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\MethodsDebuggingAndTroubleshooting\\PrintingTriangle\\PrintingTriangle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

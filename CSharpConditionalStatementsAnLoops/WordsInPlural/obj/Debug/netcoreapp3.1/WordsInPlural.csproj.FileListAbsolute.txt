@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\bin\Debug\netcoreapp3.1\WordsInPlural.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\bin\Debug\netcoreapp3.1\WordsInPlural.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\bin\Debug\netcoreapp3.1\WordsInPlural.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\bin\Debug\netcoreapp3.1\WordsInPlural.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\bin\Debug\netcoreapp3.1\WordsInPlural.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\bin\Debug\netcoreapp3.1\WordsInPlural.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\obj\Debug\netcoreapp3.1\WordsInPlural.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\obj\Debug\netcoreapp3.1\WordsInPlural.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\obj\Debug\netcoreapp3.1\WordsInPlural.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\obj\Debug\netcoreapp3.1\WordsInPlural.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\obj\Debug\netcoreapp3.1\WordsInPlural.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\obj\Debug\netcoreapp3.1\WordsInPlural.genruntimeconfig.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\WordsInPlural\obj\Debug\netcoreapp3.1\WordsInPlural.csprojAssemblyReference.cache

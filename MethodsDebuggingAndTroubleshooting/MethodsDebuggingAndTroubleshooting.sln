@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintingTriangle", "PrintingTriangle\PrintingTriangle.csproj", "{87C65419-B551-40AE-A8CC-61D3338B504F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawFilledSquare", "DrawFilledSquare\DrawFilledSquare.csproj", "{ABDB7E8F-0B9A-4669-AAC0-B76D166C7D44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawFilledSquare", "DrawFilledSquare\DrawFilledSquare.csproj", "{ABDB7E8F-0B9A-4669-AAC0-B76D166C7D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterNumbers", "MasterNumbers\MasterNumbers.csproj", "{8DDD3ABA-CE71-4EB0-88DF-CB8AF14A950C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggingExercises", "DebuggingExercises\DebuggingExercises.csproj", "{00499EAF-3B1B-46B6-82DF-5C77DA5C130C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{ABDB7E8F-0B9A-4669-AAC0-B76D166C7D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABDB7E8F-0B9A-4669-AAC0-B76D166C7D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABDB7E8F-0B9A-4669-AAC0-B76D166C7D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDD3ABA-CE71-4EB0-88DF-CB8AF14A950C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDD3ABA-CE71-4EB0-88DF-CB8AF14A950C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDD3ABA-CE71-4EB0-88DF-CB8AF14A950C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDD3ABA-CE71-4EB0-88DF-CB8AF14A950C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00499EAF-3B1B-46B6-82DF-5C77DA5C130C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00499EAF-3B1B-46B6-82DF-5C77DA5C130C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00499EAF-3B1B-46B6-82DF-5C77DA5C130C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00499EAF-3B1B-46B6-82DF-5C77DA5C130C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

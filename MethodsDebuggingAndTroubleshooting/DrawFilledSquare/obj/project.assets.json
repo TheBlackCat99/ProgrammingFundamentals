@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\PrintingTriangle\\DrawFilledSquare\\DrawFilledSquare.csproj",
+      "projectUniqueName": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\MethodsDebuggingAndTroubleshooting\\DrawFilledSquare\\DrawFilledSquare.csproj",
       "projectName": "DrawFilledSquare",
-      "projectPath": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\PrintingTriangle\\DrawFilledSquare\\DrawFilledSquare.csproj",
+      "projectPath": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\MethodsDebuggingAndTroubleshooting\\DrawFilledSquare\\DrawFilledSquare.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\PrintingTriangle\\DrawFilledSquare\\obj\\",
+      "outputPath": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\MethodsDebuggingAndTroubleshooting\\DrawFilledSquare\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

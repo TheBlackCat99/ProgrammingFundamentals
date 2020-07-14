@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\PrintingTriangle\\PrintingTriangle\\PrintingTriangle.csproj": {}
+    "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\MethodsDebuggingAndTroubleshooting\\PrintingTriangle\\PrintingTriangle.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\PrintingTriangle\\PrintingTriangle\\PrintingTriangle.csproj": {
+    "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\MethodsDebuggingAndTroubleshooting\\PrintingTriangle\\PrintingTriangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\PrintingTriangle\\PrintingTriangle\\PrintingTriangle.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\MethodsDebuggingAndTroubleshooting\\PrintingTriangle\\PrintingTriangle.csproj",
         "projectName": "PrintingTriangle",
-        "projectPath": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\PrintingTriangle\\PrintingTriangle\\PrintingTriangle.csproj",
+        "projectPath": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\MethodsDebuggingAndTroubleshooting\\PrintingTriangle\\PrintingTriangle.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\PrintingTriangle\\PrintingTriangle\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\MethodsDebuggingAndTroubleshooting\\PrintingTriangle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\bin\Debug\netcoreapp3.1\MagicLetter.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\bin\Debug\netcoreapp3.1\MagicLetter.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\bin\Debug\netcoreapp3.1\MagicLetter.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\bin\Debug\netcoreapp3.1\MagicLetter.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\bin\Debug\netcoreapp3.1\MagicLetter.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\bin\Debug\netcoreapp3.1\MagicLetter.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\obj\Debug\netcoreapp3.1\MagicLetter.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\obj\Debug\netcoreapp3.1\MagicLetter.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\obj\Debug\netcoreapp3.1\MagicLetter.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\obj\Debug\netcoreapp3.1\MagicLetter.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\obj\Debug\netcoreapp3.1\MagicLetter.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\obj\Debug\netcoreapp3.1\MagicLetter.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\MagicLetter\obj\Debug\netcoreapp3.1\MagicLetter.genruntimeconfig.cache

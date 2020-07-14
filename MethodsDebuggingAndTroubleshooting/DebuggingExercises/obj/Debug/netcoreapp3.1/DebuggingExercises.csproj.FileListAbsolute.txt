@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\bin\Debug\netcoreapp3.1\DebuggingExercises.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\bin\Debug\netcoreapp3.1\DebuggingExercises.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\bin\Debug\netcoreapp3.1\DebuggingExercises.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\bin\Debug\netcoreapp3.1\DebuggingExercises.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\bin\Debug\netcoreapp3.1\DebuggingExercises.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\bin\Debug\netcoreapp3.1\DebuggingExercises.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\obj\Debug\netcoreapp3.1\DebuggingExercises.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\obj\Debug\netcoreapp3.1\DebuggingExercises.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\obj\Debug\netcoreapp3.1\DebuggingExercises.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\obj\Debug\netcoreapp3.1\DebuggingExercises.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\obj\Debug\netcoreapp3.1\DebuggingExercises.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\obj\Debug\netcoreapp3.1\DebuggingExercises.genruntimeconfig.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DebuggingExercises\obj\Debug\netcoreapp3.1\DebuggingExercises.csprojAssemblyReference.cache

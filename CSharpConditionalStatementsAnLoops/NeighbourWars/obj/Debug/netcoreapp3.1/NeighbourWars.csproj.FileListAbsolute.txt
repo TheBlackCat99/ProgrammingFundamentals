@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\bin\Debug\netcoreapp3.1\NeighbourWars.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\bin\Debug\netcoreapp3.1\NeighbourWars.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\bin\Debug\netcoreapp3.1\NeighbourWars.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\bin\Debug\netcoreapp3.1\NeighbourWars.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\bin\Debug\netcoreapp3.1\NeighbourWars.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\bin\Debug\netcoreapp3.1\NeighbourWars.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\obj\Debug\netcoreapp3.1\NeighbourWars.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\obj\Debug\netcoreapp3.1\NeighbourWars.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\obj\Debug\netcoreapp3.1\NeighbourWars.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\obj\Debug\netcoreapp3.1\NeighbourWars.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\obj\Debug\netcoreapp3.1\NeighbourWars.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\obj\Debug\netcoreapp3.1\NeighbourWars.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\CSharpConditionalStatementsAnLoops\NeighbourWars\obj\Debug\netcoreapp3.1\NeighbourWars.genruntimeconfig.cache
