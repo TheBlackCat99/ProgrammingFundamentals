@@ -5,43 +5,43 @@ public class SequenceOfCommands_broken
 {
 	private const char ArgumentsDelimiter = ' ';
 
-	//public static void Main()
-	//{
-	//	int sizeOfArray = int.Parse(Console.ReadLine());
+    public static void Main()
+    {
+        int sizeOfArray = int.Parse(Console.ReadLine());
 
-	//	long[] array = Console.ReadLine()
-	//		.Split(ArgumentsDelimiter)
-	//		.Select(long.Parse)
-	//		.ToArray();
+        long[] array = Console.ReadLine()
+            .Split(ArgumentsDelimiter)
+            .Select(long.Parse)
+            .ToArray();
 
-	//	string command = Console.ReadLine();
+        string command = Console.ReadLine();
 
-	//	while (!command.Equals("over"))
-	//	{
-	//		string line = Console.ReadLine().Trim();
-	//		int[] args = new int[2];
+        while (!command.Equals("over"))
+        {
+            string line = Console.ReadLine().Trim();
+            int[] args = new int[2];
 
-	//		if (command.Equals("add") ||
-	//			command.Equals("substract") ||
-	//			command.Equals("multiply"))
-	//		{
-	//			string[] stringParams = line.Split(ArgumentsDelimiter);
-	//			args[0] = int.Parse(stringParams[0]);
-	//			args[1] = int.Parse(stringParams[1]);
+            if (command.Equals("add") ||
+                command.Equals("substract") ||
+                command.Equals("multiply"))
+            {
+                string[] stringParams = line.Split(ArgumentsDelimiter);
+                args[0] = int.Parse(stringParams[0]);
+                args[1] = int.Parse(stringParams[1]);
 
-	//			PerformAction(array, command, args);
-	//		}
+                PerformAction(array, command, args);
+            }
 
-	//		PerformAction(array, command, args);
+            PerformAction(array, command, args);
 
-	//		PrintArray(array);
-	//		Console.WriteLine('\n');
+            PrintArray(array);
+            Console.WriteLine('\n');
 
-	//		command = Console.ReadLine();
-	//	}
-	//}
+            command = Console.ReadLine();
+        }
+    }
 
-	static void PerformAction(long[] arr, string action, int[] args)
+    static void PerformAction(long[] arr, string action, int[] args)
 	{
 		long[] array = arr.Clone() as long[];
 		int pos = args[0];

@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\bin\Debug\netcoreapp3.1\TripleSum.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\bin\Debug\netcoreapp3.1\TripleSum.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\bin\Debug\netcoreapp3.1\TripleSum.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\bin\Debug\netcoreapp3.1\TripleSum.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\bin\Debug\netcoreapp3.1\TripleSum.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\bin\Debug\netcoreapp3.1\TripleSum.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.genruntimeconfig.cache

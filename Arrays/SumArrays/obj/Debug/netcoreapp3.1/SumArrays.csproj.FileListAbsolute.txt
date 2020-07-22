@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\bin\Debug\netcoreapp3.1\SumArrays.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\bin\Debug\netcoreapp3.1\SumArrays.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\bin\Debug\netcoreapp3.1\SumArrays.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\bin\Debug\netcoreapp3.1\SumArrays.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\bin\Debug\netcoreapp3.1\SumArrays.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\bin\Debug\netcoreapp3.1\SumArrays.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.genruntimeconfig.cache

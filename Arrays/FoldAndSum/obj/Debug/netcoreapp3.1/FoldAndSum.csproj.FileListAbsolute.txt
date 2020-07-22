@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\bin\Debug\netcoreapp3.1\FoldAndSum.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\bin\Debug\netcoreapp3.1\FoldAndSum.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\bin\Debug\netcoreapp3.1\FoldAndSum.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\bin\Debug\netcoreapp3.1\FoldAndSum.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\bin\Debug\netcoreapp3.1\FoldAndSum.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\bin\Debug\netcoreapp3.1\FoldAndSum.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\obj\Debug\netcoreapp3.1\FoldAndSum.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\obj\Debug\netcoreapp3.1\FoldAndSum.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\obj\Debug\netcoreapp3.1\FoldAndSum.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\obj\Debug\netcoreapp3.1\FoldAndSum.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\obj\Debug\netcoreapp3.1\FoldAndSum.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\obj\Debug\netcoreapp3.1\FoldAndSum.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\FoldAndSum\obj\Debug\netcoreapp3.1\FoldAndSum.genruntimeconfig.cache

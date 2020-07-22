@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\bin\Debug\netcoreapp3.1\RotateAndSum.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\bin\Debug\netcoreapp3.1\RotateAndSum.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\bin\Debug\netcoreapp3.1\RotateAndSum.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\bin\Debug\netcoreapp3.1\RotateAndSum.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\bin\Debug\netcoreapp3.1\RotateAndSum.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\bin\Debug\netcoreapp3.1\RotateAndSum.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\obj\Debug\netcoreapp3.1\RotateAndSum.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\obj\Debug\netcoreapp3.1\RotateAndSum.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\obj\Debug\netcoreapp3.1\RotateAndSum.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\obj\Debug\netcoreapp3.1\RotateAndSum.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\obj\Debug\netcoreapp3.1\RotateAndSum.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\obj\Debug\netcoreapp3.1\RotateAndSum.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\RotateAndSum\obj\Debug\netcoreapp3.1\RotateAndSum.genruntimeconfig.cache

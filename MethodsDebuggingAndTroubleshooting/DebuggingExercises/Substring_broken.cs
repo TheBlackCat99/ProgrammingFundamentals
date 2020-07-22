@@ -2,39 +2,39 @@
 
 public class Substring_broken
 {
-    public static void Main()
-    {
-        string text = Console.ReadLine();
-        int jump = int.Parse(Console.ReadLine());
+    //public static void Main()
+    //{
+    //    string text = Console.ReadLine();
+    //    int jump = int.Parse(Console.ReadLine());
 
-        const char Search = 'p';
-        bool hasMatch = false;
-        int remainder = text.Length;
+    //    const char Search = 'p';
+    //    bool hasMatch = false;
+    //    int remainder = text.Length;
 
-        for (int i = 0; i < text.Length; i++)
-        {
+    //    for (int i = 0; i < text.Length; i++)
+    //    {
 
-            if (text[i] == Search)
-            {
-                hasMatch = true;
+    //        if (text[i] == Search)
+    //        {
+    //            hasMatch = true;
 
-                int endIndex = jump + 1;
-                remainder -= i + 1;
+    //            int endIndex = jump + 1;
+    //            remainder -= i + 1;
 
-                if (endIndex > remainder)
-                {
-                    endIndex = remainder;
-                }
+    //            if (endIndex > remainder)
+    //            {
+    //                endIndex = remainder;
+    //            }
 
-                string matchedString = text.Substring(i, endIndex);
-                Console.WriteLine(matchedString);
-                i += jump;
-            }
-        }
+    //            string matchedString = text.Substring(i, endIndex);
+    //            Console.WriteLine(matchedString);
+    //            i += jump;
+    //        }
+    //    }
 
-        if (!hasMatch)
-        {
-            Console.WriteLine("no");
-        }
-    }
+    //    if (!hasMatch)
+    //    {
+    //        Console.WriteLine("no");
+    //    }
+    //}
 }

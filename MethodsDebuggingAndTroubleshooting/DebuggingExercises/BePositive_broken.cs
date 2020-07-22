@@ -3,63 +3,68 @@ using System.Collections.Generic;
 
 public class BePositive_broken
 {
-	//public static void Main()
-	//{
-	//	int countSequences = int.Parse(Console.ReadLine());
+    //public static void Main()
+    //{
+    //    int countSequences = int.Parse(Console.ReadLine());
 
-	//	for (int i = 0; i < countSequences; i++)
-	//	{
-	//		string[] input = Console.ReadLine().Trim().Split(' ');
-	//		var numbers = new List<int>();
+    //    for (int i = 0; i < countSequences; i++)
+    //    {
+    //        string[] input = Console.ReadLine().Trim().Split(' ');
+    //        var numbers = new List<int>();
 
-	//		for (int j = 0; j < input.Length; j++)
-	//		{
-	//			if (!input[j].Equals(string.Empty))
-	//			{
-	//				int num = int.Parse(input[i]);
-	//				numbers.Add(num);
-	//			}
-	//		}
+    //        bool found = false;
 
-	//		bool found = false;
+    //        for (int j = 0; j < input.Length; j++)
+    //        {
+    //            if (!input[j].Equals(string.Empty))
+    //            {
+    //                int num = int.Parse(input[j]);
+    //                numbers.Add(num);
+    //            }
+    //        }
 
-	//		for (int j = 0; j < numbers.Count; j++)
-	//		{
-	//			int currentNum = numbers[j];
+    //        for (int k = 0; k < numbers.Count; k++)
+    //        {
+    //            int currentNum = numbers[k];
 
-	//			if (currentNum > 0)
-	//			{
-	//				if (found)
-	//					{
-	//						Console.Write(" ");
-	//					}
+    //            if (currentNum > 0)
+    //            {
+    //                if (found)
+    //                {
+    //                    Console.Write(" ");
+    //                }
 
-	//					Console.Write(currentNum);
+    //                Console.Write(currentNum);
 
-	//					found = true;
-	//			}
-	//			else
-	//			{
-	//				currentNum += numbers[j + 1];
+    //                found = true;
+    //            }
+    //            else
+    //            {
+    //                currentNum += numbers[k + 1];
+    //                k++;
 
-	//				if (currentNum > 0)
-	//				{
-	//					if (found)
-	//					{
-	//						Console.Write(" ");
-	//					}
+    //                if (currentNum > 0)
+    //                {
+    //                    if (found)
+    //                    {
+    //                        Console.Write(" ");
+    //                    }
 
-	//					Console.Write(currentNum);
+    //                    Console.Write(currentNum);
 
-	//					found = true;
-	//				}
-	//			}
-	//		}
+    //                    found = true;
+    //                }
+    //                else
+    //                {
+    //                    numbers.Remove(currentNum);
+    //                }
+    //            }
+    //        }
 
-	//		if (!found)
-	//		{
-	//			Console.WriteLine("(empty)");
-	//		}
-	//	}
-	//}
+    //        if (!found)
+    //        {
+    //            Console.WriteLine("(empty)");
+    //        }
+    //    }
+    //}
 }

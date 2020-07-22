@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.genruntimeconfig.cache
