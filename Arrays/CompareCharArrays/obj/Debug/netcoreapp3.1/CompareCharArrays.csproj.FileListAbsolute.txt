@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\bin\Debug\netcoreapp3.1\CompareCharArrays.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\bin\Debug\netcoreapp3.1\CompareCharArrays.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\bin\Debug\netcoreapp3.1\CompareCharArrays.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\bin\Debug\netcoreapp3.1\CompareCharArrays.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\bin\Debug\netcoreapp3.1\CompareCharArrays.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\bin\Debug\netcoreapp3.1\CompareCharArrays.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.genruntimeconfig.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.csprojAssemblyReference.cache

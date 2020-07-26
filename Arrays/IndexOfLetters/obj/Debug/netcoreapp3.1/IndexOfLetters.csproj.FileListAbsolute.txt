@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\bin\Debug\netcoreapp3.1\IndexOfLetters.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\bin\Debug\netcoreapp3.1\IndexOfLetters.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\bin\Debug\netcoreapp3.1\IndexOfLetters.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\bin\Debug\netcoreapp3.1\IndexOfLetters.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\bin\Debug\netcoreapp3.1\IndexOfLetters.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\bin\Debug\netcoreapp3.1\IndexOfLetters.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\obj\Debug\netcoreapp3.1\IndexOfLetters.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\obj\Debug\netcoreapp3.1\IndexOfLetters.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\obj\Debug\netcoreapp3.1\IndexOfLetters.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\obj\Debug\netcoreapp3.1\IndexOfLetters.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\obj\Debug\netcoreapp3.1\IndexOfLetters.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\obj\Debug\netcoreapp3.1\IndexOfLetters.genruntimeconfig.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\IndexOfLetters\obj\Debug\netcoreapp3.1\IndexOfLetters.csprojAssemblyReference.cache

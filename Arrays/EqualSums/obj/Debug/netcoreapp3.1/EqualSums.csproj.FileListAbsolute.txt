@@ -1,0 +1,12 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.genruntimeconfig.cache

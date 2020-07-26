@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\bin\Debug\netcoreapp3.1\MostFrequentNumber.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\bin\Debug\netcoreapp3.1\MostFrequentNumber.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\bin\Debug\netcoreapp3.1\MostFrequentNumber.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\bin\Debug\netcoreapp3.1\MostFrequentNumber.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\bin\Debug\netcoreapp3.1\MostFrequentNumber.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\bin\Debug\netcoreapp3.1\MostFrequentNumber.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\obj\Debug\netcoreapp3.1\MostFrequentNumber.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\obj\Debug\netcoreapp3.1\MostFrequentNumber.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\obj\Debug\netcoreapp3.1\MostFrequentNumber.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\obj\Debug\netcoreapp3.1\MostFrequentNumber.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\obj\Debug\netcoreapp3.1\MostFrequentNumber.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\obj\Debug\netcoreapp3.1\MostFrequentNumber.genruntimeconfig.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MostFrequentNumber\obj\Debug\netcoreapp3.1\MostFrequentNumber.csprojAssemblyReference.cache

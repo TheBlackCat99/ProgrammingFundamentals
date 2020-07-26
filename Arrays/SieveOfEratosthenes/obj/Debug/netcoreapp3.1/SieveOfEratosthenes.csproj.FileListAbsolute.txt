@@ -1,0 +1,12 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SieveOfEratosthenes\bin\Debug\netcoreapp3.1\SieveOfEratosthenes.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SieveOfEratosthenes\bin\Debug\netcoreapp3.1\SieveOfEratosthenes.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SieveOfEratosthenes\bin\Debug\netcoreapp3.1\SieveOfEratosthenes.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SieveOfEratosthenes\bin\Debug\netcoreapp3.1\SieveOfEratosthenes.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SieveOfEratosthenes\bin\Debug\netcoreapp3.1\SieveOfEratosthenes.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SieveOfEratosthenes\bin\Debug\netcoreapp3.1\SieveOfEratosthenes.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SieveOfEratosthenes\obj\Debug\netcoreapp3.1\SieveOfEratosthenes.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SieveOfEratosthenes\obj\Debug\netcoreapp3.1\SieveOfEratosthenes.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SieveOfEratosthenes\obj\Debug\netcoreapp3.1\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SieveOfEratosthenes\obj\Debug\netcoreapp3.1\SieveOfEratosthenes.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SieveOfEratosthenes\obj\Debug\netcoreapp3.1\SieveOfEratosthenes.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\SieveOfEratosthenes\obj\Debug\netcoreapp3.1\SieveOfEratosthenes.genruntimeconfig.cache

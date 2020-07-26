@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.genruntimeconfig.cache

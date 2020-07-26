@@ -1,0 +1,12 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\PairsByDifference\bin\Debug\netcoreapp3.1\PairsByDifference.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\PairsByDifference\bin\Debug\netcoreapp3.1\PairsByDifference.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\PairsByDifference\bin\Debug\netcoreapp3.1\PairsByDifference.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\PairsByDifference\bin\Debug\netcoreapp3.1\PairsByDifference.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\PairsByDifference\bin\Debug\netcoreapp3.1\PairsByDifference.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\PairsByDifference\bin\Debug\netcoreapp3.1\PairsByDifference.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\PairsByDifference\obj\Debug\netcoreapp3.1\PairsByDifference.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\PairsByDifference\obj\Debug\netcoreapp3.1\PairsByDifference.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\PairsByDifference\obj\Debug\netcoreapp3.1\PairsByDifference.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\PairsByDifference\obj\Debug\netcoreapp3.1\PairsByDifference.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\PairsByDifference\obj\Debug\netcoreapp3.1\PairsByDifference.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Arrays\PairsByDifference\obj\Debug\netcoreapp3.1\PairsByDifference.genruntimeconfig.cache
