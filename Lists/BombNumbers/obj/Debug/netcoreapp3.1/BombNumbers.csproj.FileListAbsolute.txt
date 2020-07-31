@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.genruntimeconfig.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\bin\Debug\netcoreapp3.1\SquareNumbers.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\bin\Debug\netcoreapp3.1\SquareNumbers.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\bin\Debug\netcoreapp3.1\SquareNumbers.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\bin\Debug\netcoreapp3.1\SquareNumbers.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\bin\Debug\netcoreapp3.1\SquareNumbers.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\bin\Debug\netcoreapp3.1\SquareNumbers.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.genruntimeconfig.cache

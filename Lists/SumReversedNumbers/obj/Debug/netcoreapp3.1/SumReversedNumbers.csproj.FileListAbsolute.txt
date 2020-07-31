@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\bin\Debug\netcoreapp3.1\SumReversedNumbers.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\bin\Debug\netcoreapp3.1\SumReversedNumbers.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\bin\Debug\netcoreapp3.1\SumReversedNumbers.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\bin\Debug\netcoreapp3.1\SumReversedNumbers.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\bin\Debug\netcoreapp3.1\SumReversedNumbers.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\bin\Debug\netcoreapp3.1\SumReversedNumbers.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\obj\Debug\netcoreapp3.1\SumReversedNumbers.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\obj\Debug\netcoreapp3.1\SumReversedNumbers.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\obj\Debug\netcoreapp3.1\SumReversedNumbers.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\obj\Debug\netcoreapp3.1\SumReversedNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\obj\Debug\netcoreapp3.1\SumReversedNumbers.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\obj\Debug\netcoreapp3.1\SumReversedNumbers.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\SumReversedNumbers\obj\Debug\netcoreapp3.1\SumReversedNumbers.genruntimeconfig.cache

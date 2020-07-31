@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\bin\Debug\netcoreapp3.1\AppendLists.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\bin\Debug\netcoreapp3.1\AppendLists.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\bin\Debug\netcoreapp3.1\AppendLists.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\bin\Debug\netcoreapp3.1\AppendLists.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\bin\Debug\netcoreapp3.1\AppendLists.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\bin\Debug\netcoreapp3.1\AppendLists.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\AppendLists.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\AppendLists.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\AppendLists.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\AppendLists.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\AppendLists.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\AppendLists.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\AppendLists.genruntimeconfig.cache

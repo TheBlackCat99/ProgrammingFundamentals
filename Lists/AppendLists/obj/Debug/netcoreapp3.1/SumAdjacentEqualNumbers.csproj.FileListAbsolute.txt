@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\bin\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\bin\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\bin\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\bin\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\bin\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\bin\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\Lists\AppendLists\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.genruntimeconfig.cache
