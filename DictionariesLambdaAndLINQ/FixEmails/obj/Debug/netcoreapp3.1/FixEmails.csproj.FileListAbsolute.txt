@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\bin\Debug\netcoreapp3.1\FixEmails.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\bin\Debug\netcoreapp3.1\FixEmails.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\bin\Debug\netcoreapp3.1\FixEmails.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\bin\Debug\netcoreapp3.1\FixEmails.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\bin\Debug\netcoreapp3.1\FixEmails.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\bin\Debug\netcoreapp3.1\FixEmails.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\obj\Debug\netcoreapp3.1\FixEmails.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\obj\Debug\netcoreapp3.1\FixEmails.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\obj\Debug\netcoreapp3.1\FixEmails.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\obj\Debug\netcoreapp3.1\FixEmails.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\obj\Debug\netcoreapp3.1\FixEmails.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\obj\Debug\netcoreapp3.1\FixEmails.genruntimeconfig.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\FixEmails\obj\Debug\netcoreapp3.1\FixEmails.csprojAssemblyReference.cache

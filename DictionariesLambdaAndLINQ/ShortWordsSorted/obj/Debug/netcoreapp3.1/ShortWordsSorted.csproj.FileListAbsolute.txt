@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\bin\Debug\netcoreapp3.1\ShortWordsSorted.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\bin\Debug\netcoreapp3.1\ShortWordsSorted.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\bin\Debug\netcoreapp3.1\ShortWordsSorted.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\bin\Debug\netcoreapp3.1\ShortWordsSorted.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\bin\Debug\netcoreapp3.1\ShortWordsSorted.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\bin\Debug\netcoreapp3.1\ShortWordsSorted.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\obj\Debug\netcoreapp3.1\ShortWordsSorted.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\obj\Debug\netcoreapp3.1\ShortWordsSorted.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\obj\Debug\netcoreapp3.1\ShortWordsSorted.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\obj\Debug\netcoreapp3.1\ShortWordsSorted.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\obj\Debug\netcoreapp3.1\ShortWordsSorted.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\obj\Debug\netcoreapp3.1\ShortWordsSorted.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ShortWordsSorted\obj\Debug\netcoreapp3.1\ShortWordsSorted.genruntimeconfig.cache

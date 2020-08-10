@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\netcoreapp3.1\HandsOfCards.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\netcoreapp3.1\HandsOfCards.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\netcoreapp3.1\HandsOfCards.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\netcoreapp3.1\HandsOfCards.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\netcoreapp3.1\HandsOfCards.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\netcoreapp3.1\HandsOfCards.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp3.1\HandsOfCards.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp3.1\HandsOfCards.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp3.1\HandsOfCards.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp3.1\HandsOfCards.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp3.1\HandsOfCards.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp3.1\HandsOfCards.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\netcoreapp3.1\HandsOfCards.genruntimeconfig.cache

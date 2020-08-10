@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.genruntimeconfig.cache
