@@ -11,3 +11,16 @@ D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangl
 D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.dll
 D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.pdb
 D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\PrintingTriangle\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.genruntimeconfig.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\bin\Debug\netcoreapp3.1\DrawFilledSquare.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\bin\Debug\netcoreapp3.1\DrawFilledSquare.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\bin\Debug\netcoreapp3.1\DrawFilledSquare.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\bin\Debug\netcoreapp3.1\DrawFilledSquare.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\bin\Debug\netcoreapp3.1\DrawFilledSquare.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\bin\Debug\netcoreapp3.1\DrawFilledSquare.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.genruntimeconfig.cache

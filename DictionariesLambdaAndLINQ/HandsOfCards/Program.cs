@@ -23,6 +23,7 @@
          */
         static void Main(string[] args)
         {
+            Console.Write("Player name and drawn cards or end of input: ");
             var input = Console.ReadLine().Split(':');
             var points = new Dictionary<string, int>(); // name of the player, points
             var hands = new Dictionary<string, List<string>>(); // name of the player, hands
@@ -49,6 +50,7 @@
                     hands.Add(playerName, playerHands);
                 }
 
+                Console.Write("Player name and drawn cards or end of input: ");
                 input = Console.ReadLine().Split(':');
             }
 

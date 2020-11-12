@@ -14,13 +14,16 @@
          */
         static void Main(string[] args)
         {
+            char[] delimiters = new char[] { '.', ',', ':', ';', '(', ')', '[', ']', '\"', '\'', '\\', '/', '!', '?', ' ' };
+
             Console.Write("Text: ");
             var words = Console.ReadLine()
                 .ToLower()
-                .Split(new char[] { '.', ',', ':', ';', '(', ')', '[', ']', '\"', '\'', '\\', '/', '!', '?', ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Split(delimiters, StringSplitOptions.RemoveEmptyEntries)
                 .Distinct();
 
-            Console.WriteLine($"Al short words(under 5 characters) alphabetically: {string.Join(", ", words.Where(x => x.Length < 5).OrderBy(x => x))}");
+            Console.WriteLine($"Al short words(under 5 characters) alphabetically: " +
+                $"{string.Join(", ", words.Where(x => x.Length < 5).OrderBy(x => x))}");
         }
     }
 }

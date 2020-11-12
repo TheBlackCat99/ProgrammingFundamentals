@@ -14,16 +14,19 @@
          */
         static void Main(string[] args)
         {
+            Console.Write("Person's name or end of input: ");
             string input = Console.ReadLine();
             var dictionary = new Dictionary<string, string>();
 
             while (input != "stop")
             {
+                Console.Write("Email: ");
                 string email = Console.ReadLine();
                 string domainEnd = email.Substring(email.Length - 2, 2);
 
                 if (domainEnd == "uk" || domainEnd == "us")
                 {
+                    Console.Write("Person's name or end of input: ");
                     input = Console.ReadLine();
                     continue;
                 }
@@ -32,6 +35,7 @@
                     dictionary.Add(input, email);
                 }
 
+                Console.Write("Person's name or end of input: ");
                 input = Console.ReadLine();
             }
 

@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\bin\Debug\netcoreapp3.1\MasterNumbers.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\bin\Debug\netcoreapp3.1\MasterNumbers.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\bin\Debug\netcoreapp3.1\MasterNumbers.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\bin\Debug\netcoreapp3.1\MasterNumbers.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\bin\Debug\netcoreapp3.1\MasterNumbers.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\bin\Debug\netcoreapp3.1\MasterNumbers.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\obj\Debug\netcoreapp3.1\MasterNumbers.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\obj\Debug\netcoreapp3.1\MasterNumbers.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\obj\Debug\netcoreapp3.1\MasterNumbers.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\obj\Debug\netcoreapp3.1\MasterNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\obj\Debug\netcoreapp3.1\MasterNumbers.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\obj\Debug\netcoreapp3.1\MasterNumbers.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\MethodsDebuggingAndTroubleshooting\MasterNumbers\obj\Debug\netcoreapp3.1\MasterNumbers.genruntimeconfig.cache
