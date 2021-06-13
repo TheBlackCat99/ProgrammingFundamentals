@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "34Ctd8Wi/WduPxkh5ekgecfse9fhVlUT9DU5ziCUcPv9ejFjEjc80T7H/Ie5bmscJw1cvuhIO/n+vCSVEi/XqA==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C#\\GitHub SoftUni courses\\ProgrammingFundamentals\\DictionariesLambdaAndLINQ\\LogsAggregator\\LogsAggregator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mariy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mariy\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\mariy\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\mariy\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

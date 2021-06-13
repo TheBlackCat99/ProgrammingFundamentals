@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\bin\Debug\netcoreapp3.1\UserLogs.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\bin\Debug\netcoreapp3.1\UserLogs.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\bin\Debug\netcoreapp3.1\UserLogs.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\bin\Debug\netcoreapp3.1\UserLogs.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\bin\Debug\netcoreapp3.1\UserLogs.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\bin\Debug\netcoreapp3.1\UserLogs.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.genruntimeconfig.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.csprojAssemblyReference.cache

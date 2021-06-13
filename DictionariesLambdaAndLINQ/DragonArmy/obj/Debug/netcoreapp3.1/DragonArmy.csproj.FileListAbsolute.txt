@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.genruntimeconfig.cache

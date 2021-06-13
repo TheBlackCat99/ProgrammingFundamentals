@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\bin\Debug\netcoreapp3.1\PopulationCounter.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\bin\Debug\netcoreapp3.1\PopulationCounter.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\bin\Debug\netcoreapp3.1\PopulationCounter.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\bin\Debug\netcoreapp3.1\PopulationCounter.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\bin\Debug\netcoreapp3.1\PopulationCounter.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\bin\Debug\netcoreapp3.1\PopulationCounter.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\obj\Debug\netcoreapp3.1\PopulationCounter.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\obj\Debug\netcoreapp3.1\PopulationCounter.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\obj\Debug\netcoreapp3.1\PopulationCounter.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\obj\Debug\netcoreapp3.1\PopulationCounter.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\obj\Debug\netcoreapp3.1\PopulationCounter.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\obj\Debug\netcoreapp3.1\PopulationCounter.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\PopulationCounter\obj\Debug\netcoreapp3.1\PopulationCounter.genruntimeconfig.cache

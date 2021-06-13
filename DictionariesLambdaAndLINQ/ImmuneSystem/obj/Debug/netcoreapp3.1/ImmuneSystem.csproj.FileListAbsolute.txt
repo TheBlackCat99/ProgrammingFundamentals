@@ -1,0 +1,13 @@
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\bin\Debug\netcoreapp3.1\ImmuneSystem.exe
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\bin\Debug\netcoreapp3.1\ImmuneSystem.deps.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\bin\Debug\netcoreapp3.1\ImmuneSystem.runtimeconfig.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\bin\Debug\netcoreapp3.1\ImmuneSystem.runtimeconfig.dev.json
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\bin\Debug\netcoreapp3.1\ImmuneSystem.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\bin\Debug\netcoreapp3.1\ImmuneSystem.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\obj\Debug\netcoreapp3.1\ImmuneSystem.csprojAssemblyReference.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\obj\Debug\netcoreapp3.1\ImmuneSystem.AssemblyInfoInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\obj\Debug\netcoreapp3.1\ImmuneSystem.AssemblyInfo.cs
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\obj\Debug\netcoreapp3.1\ImmuneSystem.csproj.CoreCompileInputs.cache
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\obj\Debug\netcoreapp3.1\ImmuneSystem.dll
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\obj\Debug\netcoreapp3.1\ImmuneSystem.pdb
+D:\Programming\C#\GitHub SoftUni courses\ProgrammingFundamentals\DictionariesLambdaAndLINQ\ImmuneSystem\obj\Debug\netcoreapp3.1\ImmuneSystem.genruntimeconfig.cache
